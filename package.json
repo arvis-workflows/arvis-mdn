@@ -1,0 +1,39 @@
+{
+  "name": "arvis-mdn",
+  "version": "0.0.1",
+  "description": "Search through the MDN documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "arvish-init",
+    "preuninstall": "arvish-cleanup"
+  },
+  "keywords": [
+    "arvis",
+    "workflow",
+    "mdn",
+    "mozilla",
+    "developers",
+    "network",
+    "html",
+    "javascript",
+    "js"
+  ],
+  "author": {
+    "name": "Klaas Cuvelier",
+    "email": "cuvelierklaas@gmail.com",
+    "url": "klaascuvelier.io"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "arvish": ">=0.4.6"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "arvis-workflow.json"
+  ],
+  "engines": {
+    "node": ">=8"
+  }
+}
