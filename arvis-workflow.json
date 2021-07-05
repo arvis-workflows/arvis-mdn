@@ -4,10 +4,10 @@
   "defaultIcon": "icon.png",
   "creator": "Klaas Cuvelier",
   "description": "Search through the MDN documentation",
-  "name": "mdn",
+  "name": "arvis-mdn",
   "webAddress": "https://github.com/jopemachine/arvis-mdn",
   "readme": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "enabled": true,
   "commands": [
     {
